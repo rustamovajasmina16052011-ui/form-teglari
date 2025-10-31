@@ -1,0 +1,55 @@
+.vanish{
+    width: 300px;
+   background-color: rgb(203, 210, 210);
+    padding: 30px;
+    border-radius: 25px;
+    text-align: center;
+}
+.vanish img{
+    width: 100%;
+    border-radius: 20px;
+}
+.vanish h2{
+    font-size: 32px;
+}
+.vanish p{
+    font-size: 16px;
+    
+}
+.vanish button{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(141, 55, 223);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.iphone{
+     width: 300px;
+   background-color: rgb(203, 210, 210);
+    padding: 30px;
+    border-radius: 25px;
+    text-align: center;
+}
+.iphone img{
+     width: 100%;
+    border-radius: 20px;
+}
+.iphone h2{
+    font-size: 32px;
+}
+.iphone p{
+    font-size: 16px;
+}
+.iphone button{
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(141, 55, 223);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
